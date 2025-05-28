@@ -1,0 +1,133 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-track {
+  width: 0.5vw;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar-thumb {
+  cursor: pointer;
+  background-color: slateblue;
+}
+
+.ant-layout-header {
+  background: rgba(255, 255, 255, 0.9);
+  position: fixed;
+  width: 100vw;
+  padding: 0 8vw;
+  z-index: 1;
+}
+
+.ant-anchor-wrapper-horizontal::before {
+  border-bottom: none;
+}
+
+.ant-anchor-wrapper .ant-anchor .ant-anchor-link {
+  padding-inline-start: 4vw;
+}
+
+.container {
+  min-height: 100vh;
+  padding: 12vh 8vw;
+  background: white;
+}
+
+.parentFull {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.appLink {
+  color: initial !important;
+}
+
+.appLink:hover {
+  color: slateblue !important;
+}
+
+.profile {
+  width: 250px;
+  border-radius: 50%;
+  opacity: 0.9;
+}
+
+.profileName {
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 42px;
+  opacity: 0.75;
+  letter-spacing: 2px;
+}
+
+.profileDescription {
+  font-weight: 400 !important;
+  opacity: 0.8 !important;
+  margin: 0 !important;
+}
+
+.highlight {
+  font-family: "Alegreya Sans SC", sans-serif;
+  color: slateblue !important;
+  letter-spacing: 1px;
+  font-size: 24px;
+}
+
+.subTitle {
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 24px;
+  letter-spacing: 1px;
+  opacity: 0.75;
+  font-weight: 500;
+  padding-bottom: 4vh;
+  text-align: center;
+}
+
+.cardContainer {
+  padding: 1vh 2vw;
+}
+
+.card {
+  padding: 4vh 2vh;
+  border: 1px solid lightgray;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 4vh;
+  min-height: 100%;
+  background: repeating-linear-gradient(45deg, white 10%, transparent 20%),
+    repeating-linear-gradient(-45deg, white 10%, transparent 20%);
+  background-blend-mode: lighten;
+}
+
+.project {
+  min-height: 400px;
+}
+
+.cardTitle {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.cardDescription {
+  font-weight: 400 !important;
+}
+
+.cardImage {
+  width: 50px;
+  height: 50px;
+}
+
+.card strong {
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.75);
+}
+
+.contactImage {
+  width: 25px;
+  height: 25px;
+}
+
+.contactContainer {
+  padding: 4vh 8vw;
+  background: rgba(255, 255, 255, 0.9);
+}

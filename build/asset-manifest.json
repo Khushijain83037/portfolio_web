@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/khushi-portfolio/static/css/main.d2ab78ad.css",
+    "main.js": "/khushi-portfolio/static/js/main.cf647f34.js",
+    "static/js/453.981f7834.chunk.js": "/khushi-portfolio/static/js/453.981f7834.chunk.js",
+    "static/media/codsoft.svg": "/khushi-portfolio/static/media/codsoft.6420212c3a2f90f1c88569c772e33818.svg",
+    "static/media/quiz.svg": "/khushi-portfolio/static/media/quiz.02eee87a2864259e60e9f379e2ac71ca.svg",
+    "static/media/profile.jpg": "/khushi-portfolio/static/media/profile.d861f823a28d723627f1.jpg",
+    "static/media/mysql.svg": "/khushi-portfolio/static/media/mysql.da24dc29a1160e48f4b96db57b52d5bb.svg",
+    "static/media/nodejs.svg": "/khushi-portfolio/static/media/nodejs.83285861588fa809ab542ee73c70ab4b.svg",
+    "static/media/react.svg": "/khushi-portfolio/static/media/react.7c738c950f567912bdc20a7e1a0af183.svg",
+    "static/media/smartwatch.svg": "/khushi-portfolio/static/media/smartwatch.98e5d39459e68e983d4fceb75a6a313e.svg",
+    "static/media/javascript.svg": "/khushi-portfolio/static/media/javascript.571026b43542d2b70353517ebaa1aa28.svg",
+    "static/media/python.svg": "/khushi-portfolio/static/media/python.8cfa0a9db040ecc11a3017ff5536ef5e.svg",
+    "static/media/mongodb.svg": "/khushi-portfolio/static/media/mongodb.44df644c46fe7e0f75a3a6762db80ea2.svg",
+    "index.html": "/khushi-portfolio/index.html",
+    "static/media/css3.svg": "/khushi-portfolio/static/media/css3.3b09ac3fe497b5c8138d4e8101bc62ee.svg",
+    "static/media/git.svg": "/khushi-portfolio/static/media/git.edd16ea0c2abbdab94134ca45d672605.svg",
+    "static/media/github.svg": "/khushi-portfolio/static/media/github.2d2fe081cab6ba0e3837fcf2cc96dcf1.svg",
+    "static/media/django.svg": "/khushi-portfolio/static/media/django.17679d577901e58f87fd6cf00dd997b5.svg",
+    "static/media/html5.svg": "/khushi-portfolio/static/media/html5.6d3bbe96a0610c287f305ecaf5824e36.svg",
+    "static/media/linkedin.svg": "/khushi-portfolio/static/media/linkedin.478f0c4d334d102a271541fd33ed1c76.svg",
+    "main.d2ab78ad.css.map": "/khushi-portfolio/static/css/main.d2ab78ad.css.map",
+    "main.cf647f34.js.map": "/khushi-portfolio/static/js/main.cf647f34.js.map",
+    "453.981f7834.chunk.js.map": "/khushi-portfolio/static/js/453.981f7834.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2ab78ad.css",
+    "static/js/main.cf647f34.js"
+  ]
+}
